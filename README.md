@@ -1,2 +1,3 @@
 # hello-world
-testing
+Hi,
+just trying to learn some code
